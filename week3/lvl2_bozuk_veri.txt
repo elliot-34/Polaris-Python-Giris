@@ -1,0 +1,38 @@
+--- SYSTEM LOG START: 2025-12-07 ---
+[INFO] Sunucu bağlantısı başarılı. Ping: 23ms.
+[WARN] Bazı öğrenciler GitHub linkini 'Private' olarak atmış.
+Lütfen düzeltin yoksa puan kırcam :) İletişim için: polaris_destek@matek.org.tr adresine yazabilirsiniz.
+
+Davutpaşa kampüsünde ring sırası beklerken aklıma geldi, geçen haftaki ödevi yapmayan var mı?
+Ödevleri unutanlar için hatırlatma: Son teslim tarihi Pazar 23:59!
+Mazereti olanlar bana ulaşsın: (0532) 123 45 67 veya 0532-123-45-67 (İkisi de benim numaram değil, denemeyin :D)
+
+--- CHAT DUMP ---
+Ahmet: Kanka Python kütüphanesi hata veriyor, napcam?
+Mehmet: "pip install requests" yazdın mı?
+Ahmet: Hayır :(
+Ceren: Arkadaşlar staj buldum!! CV'mi hr.department@tech-valley.com adresine attım, hemen döndüler.
+Ali: O şirket fake olabilir, dikkat et. Ben de geçen gun 0212 383 70 70 numarasını aradım, YTÜ santrali çıktı sandım meğer pizzacıymış (şaka).
+Eren: Yeni ödev nerde kaldı ritim kaçıyor??
+
+
+--- ERROR LOG ---
+Critical Error at Line 42: "IndexError: list index out of range"
+Developer Contact: admin.root@localhost (Bu mail çalışmaz boşuna deneme)
+Alternative Contact: lead_developer_2025@yildiz.edu.tr
+
+NOTLAR:
+1. CS50 dersini izle.
+2. Vize haftası için kahve stoğu yap.
+3. Ar-Ge ekibine katılmak isteyenler +90 555 987 65 43 nolu telefona WhatsApp'tan yazabilir.
+4. Matrix'e giriş şifresi: "WakeUpNeo".
+
+Gereksiz Veriler:
+Bu satırda e-mail yok.
+Burada da telefon numarası yok, sadece sayı var: 1923, 1453, 2025.
+Bozuk mail formatı: ali@gmail (nokta com yok, bunu regex yakalamamalı!)
+Bozuk telefon formatı: 532-12 (eksik numara, bunu da yakalamamalı!)
+
+--- END OF FILE ---
+Unutulmuş bir mail daha: gizli.ajan007@hotmail.com
+Ve son bir numara: 505 111 22 33 (Başında 0 yok, bakalım yakalayabilecek misiniz?)
