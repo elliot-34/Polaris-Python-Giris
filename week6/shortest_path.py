@@ -1,4 +1,4 @@
-"""Nice exercise, took some time"""
+"""Nice exercise, it took some time"""
 class Node:
     def __init__(self,state,parent):
         self.state=state
